@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on FRONTEND Development
 - 📫 How to reach me harshvardhan44india@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact:Data Analysis and Developer
+- 😄 Pronouns:Harsh
+- ⚡ Fun fact: 
 
 <!---
 Harshvardhan8922/Harshvardhan8922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
