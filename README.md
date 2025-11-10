@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshvardhan8922
-- 👀 I’m interested in web development and AI development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on FRONTEND Development
 - 📫 How to reach me harshvardhan44india@gmail.com
