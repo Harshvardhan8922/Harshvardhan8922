@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), focusing on scalable and user-friendly solutions.<br>🤝 I’m looking to collaborate on<br>Open-source projects, startup ideas, and real-world web applications involving React, Node.js, REST APIs, and cloud deployment.<br>🆘 I’m looking for help with<br>System design, advanced backend optimization, microservices architecture, and performance tuning in Node.js.<br>🌱 I’m currently learning<br>Advanced React patterns, TypeScript, Next.js, authentication & authorization (JWT, OAuth), and cloud services (AWS).<br>💬 Ask me about<br>MERN stack, REST APIs, React hooks, backend development, database design, and full-stack project architecture.<br>⚡ Fun fact<br>I enjoy turning complex problems into simple, efficient code and love debugging more than writing new code 😄
+
+🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), focusing on scalable and user-friendly solutions.<br>
+
+🤝 I’m looking to collaborate on<br>Open-source projects, startup ideas, and real-world web applications involving React, Node.js, REST APIs, and cloud deployment.<br>
+
+🆘 I’m looking for help with<br>System design, advanced backend optimization, microservices architecture, and performance tuning in Node.js.<br>
+
+🌱 I’m currently learning<br>Advanced React patterns, TypeScript, Next.js, authentication & authorization (JWT, OAuth), and cloud services (AWS).<br>
+
+💬 Ask me about<br>MERN stack, REST APIs, React hooks, backend development, database design, and full-stack project architecture.<br>
+
+⚡ Fun fact<br>I enjoy turning complex problems into simple, efficient code and love debugging more than writing new code 😄
 
 
 ## 🌐 Socials:
